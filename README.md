@@ -4,6 +4,7 @@
 
 * O comando "git status" mostra situação atual do arquivo;
 * O comando "git add" adiciona o arquivo na área de staged changes, ou seja, está pronto para dar um commit caso queira;
+* O comando "git diff" mostra as mundaças feitas no aquivo;
 * O comando "git commit -m "mesenge of changes" aceita as mudanças feitas no arquivo;
 * O comando "git log" mostra o historico dos commit;
 * O comando "git restore" remove uma alteração já salva na área de changes;
