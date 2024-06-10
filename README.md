@@ -5,3 +5,4 @@
 * comando git push
 * comando git pull
 * comando git fetch
+* só pra ver
