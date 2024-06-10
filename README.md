@@ -9,5 +9,5 @@
 * O comando "git restore" remove uma alteração já salva na área de changes;
 * O comando "git push origin 'branch' " posta as atualizações feitas no arquivo no seu repositório remoto;
 * O comando "git fetch" permite ver as mundaças feitas no aquivo remoto antes de baixar para o seu diretório local, mas é preciso usar o comando abaixo em seguida;
-* O comando "git diff origin 'branch' " mostra as mundaças feitas no aquivo remoto antes de baixar para o seu diretório local;
+* O comando "git diff origin/branch " mostra as mundaças feitas no aquivo remoto antes de baixar para o seu diretório local;
 * O comando "git pull origin 'branch' " baixa as atualizações feitas no aquivo remoto para o seu diretório local.
