@@ -15,3 +15,4 @@
 * O comando "git pull origin 'branch' " baixa as atualizações feitas no aquivo remoto para o seu diretório local.
 * O comando "git branch 'name' " cria uma nova branch;
 * O comando "git log --oneline --decorate" indica onde o nosso HEAD (seta que indica onde nosso branch está atualmente) está apontando atualmente;
+* O comando "git checkout 'name' " muda para a branch que a gente quer irq
